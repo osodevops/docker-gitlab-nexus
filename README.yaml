@@ -1,0 +1,25 @@
+---
+#
+# This is the canonical configuration for the `README.md`
+# Run `make readme` to rebuild the `README.md`
+#
+
+# Name of this project
+name: "How to Test Gitlab Ci Locally in Docker"
+
+# Short description of this project
+description: |-
+  A local stack to quickly test and your GitLab Ci pipelines pushing into Nexus using the gitlab-runner running in Docker. 
+
+# Canonical GitHub repo
+github_repo: osodevops/docker-gitlab-nexus
+
+# How to use this project
+usage: |-
+  
+
+# Example usage
+examples: |-
+
+
+related:
